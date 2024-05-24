@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "ms-vscode-remote.remote-ws",
+    "donjayamanne.githistory",
+    "johnpapa.winteriscoming",
+    "jprestidge.theme-material-theme",
+    "vscode-icons-team.vscode-icons",
+    "wcwhitehead.bootstrap-3-snippets",
+    "angular.ng-template",
+    "thekalinga.bootstrap4-vscode",
+    "pkief.material-icon-theme",
+    "dannyconnell.make-apps-theme",
+    "johnpapa.angular2"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "workbench.colorTheme": "Sublime Material Theme - Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "security.workspace.trust.untrustedFiles": "open"
+}
